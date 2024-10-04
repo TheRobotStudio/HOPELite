@@ -3,7 +3,7 @@ HOPELite_open-source_DIY_Humanoid_Robot_with_dexterous_hands
 
 The HOPELite hands are designed to maximise cost against performance with very small BOM's.
 
-The BOM stands for the Bill of Materials which is a complete description of every component that is required to assemble the design. The real cost to build a robot can be much higher depending on how hard it is to arrange delivery of the component in the BOM. Reducing BOM size has cumulative advantages at many levels and is one of the top design priorities now.
+The BOM stands for the Bill of Materials which is a complete description of every component that is required to assemble the design. The real cost to build a robot can be much higher depending on how hard it is to arrange delivery of every last component in the BOM. Reducing BOM size has cumulative advantages at many levels and is one of the top design priorities now.
 
 This test of a finger structure replaces ball bearings with rolling joints that use the same size of fishing line as the tendons themselves (apologies that crimps are still required at this stage).
 
