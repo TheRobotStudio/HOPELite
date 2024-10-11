@@ -1,6 +1,8 @@
 # HOPELite
 HOPELite_open-source_DIY_Humanoid_Robot_with_dexterous_hands
 
+![IMG_1786 2024-09-25 14_52_36](https://github.com/user-attachments/assets/b9bcc1e2-a2e2-48b4-867c-adab4cd63b4a)
+
 The HOPELite hands are designed to maximise cost against performance with very small BOM's.
 
 The BOM stands for the Bill of Materials which is a complete description of every component that is required to assemble the design. The real cost to build a robot can be much higher depending on how hard it is to arrange delivery of every last component in the BOM. Reducing BOM size has cumulative advantages at many levels and is one of the top design priorities now.
