@@ -1,3 +1,5 @@
+BOM for the HOPELite 7 DoF arm:
+
 Servos:
 7 x Feetech STS3215-C018 12v servos
 
@@ -8,6 +10,9 @@ Bearings:
 4 x 6x10x3mm ball bearing
 
 Fasteners:
+Capheads are engineering bolts with a recessed hex slot.
+Commonly available in zinc coated, blacked or stainless steel.
+2 x M6x35mm caphead
 2 x M4x65mm caphead
 2 x M4x50mm caphead
 1 x M4x45mm caphead
@@ -17,8 +22,8 @@ Fasteners:
 1 x M3x45mm caphead
 1 x M3x30mm caphead
 1 x M3x25mm caphead
-2 x M3x8mm caphead (low head if available)
+4 x M3x8mm caphead (low head if available)
 2 x M2x12mm countersunk
 Mixed pack of brass threaded inserts to fit above sizes
-
+1 x M6 steel threaded spacer 10mm diameter by 25mm long 
 
