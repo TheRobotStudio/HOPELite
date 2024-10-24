@@ -1,4 +1,11 @@
-BOM for the HOPELite 7 DoF arm:
+Draft BOM for the HOPELite 7 DoF arm.
+
+Please note this is a draft version and is subject to change as the project develops.
+The intention is to allow a test assembly for early builders.
+
+Please give feedback on the Discord for items missing or should be added to make assembly easier.
+
+HOPELite Discord Community link: https://discord.gg/8ATPYZCYDs
 
 Servos:
 7 x Feetech STS3215-C018 12v servos
