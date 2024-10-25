@@ -1,9 +1,9 @@
 First_Finger_Draft BOM for the HOPELite 7 DoF arm, 17 DoF hand.
 
-stl file for the three finger sizes and palm uploaded
+stl files for the three finger sizes and thumb and palm uploaded. 
 
 Please note this is a draft version and is subject to change as the project develops.
-The intention is to allow a test assembly for early builders.
+The intention is to allow a test assembly for the very keen early builders :-)
 
 Please give feedback on the Discord for items missing or should be added to make assembly easier.
 
@@ -11,16 +11,20 @@ HOPELite Discord Community link: https://discord.gg/8ATPYZCYDs
 
 Servos: 3 x Feetech SCS009 per finger, 5 x Feetech SCS009 for the thumb
 
-Bearings for thumb tbd.
+Bearings for thumb tbc, probably 12x8x4mm
 
 Sufix 832 Braided fishing line, 80lbs breaking strain, 0.45mm diameter
 
+Bowden for long flexor from forearm:
 3mm od by 0.4mm wire thickness stainless spring
 PTFE tubing 2mm od by 1mm id
 
+Finger springs:
 3mmx0.4mmx20mm springs
 3mmx0.4mmx25mm springs
 
+Crimps:
 No.2 leader sleeve crimps
 
+Misc:
 Additional self tapping short servo screws or similar to fit 1.2mm holes.
