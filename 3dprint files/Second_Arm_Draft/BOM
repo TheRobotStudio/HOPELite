@@ -1,0 +1,39 @@
+First_Arm_Draft BOM for the HOPELite 7 DoF arm.
+
+Please note this is a draft version and is subject to change as the project develops.
+The intention is to allow a test assembly for early builders.
+
+Please give feedback on the Discord for items missing or should be added to make assembly easier.
+
+HOPELite Discord Community link: https://discord.gg/8ATPYZCYDs
+
+Servos:
+6 x Feetech STS3215-C018 12v servos
+1 x Feetech STS3250 servo for the shoulder pitch
+1 x Adaptor board FE-URT or Waveshare
+1 x high strength tendon motor tbd
+
+Bearings:
+1 x 70x90x10mm ball bearing
+1 x 50x65x7mm ball bearing
+17 x 20x27x4mm ball bearing
+4 x 6x10x3mm ball bearing
+
+Fasteners:
+Capheads are engineering bolts with a recessed hex slot.
+Commonly available in zinc coated, blacked or stainless steel.
+2 x M6x35mm caphead
+2 x M4x65mm caphead
+2 x M4x50mm caphead
+1 x M4x45mm caphead
+1 x M4x35mm caphead
+2 x M4x30mm caphead
+1 x M4x25mm caphead
+1 x M3x45mm caphead
+1 x M3x30mm caphead
+1 x M3x25mm caphead
+4 x M3x8mm caphead (low head if available)
+2 x M2x12mm countersunk
+Mixed pack of brass threaded inserts to fit above sizes
+1 x M6 steel threaded spacer 10mm diameter by 25mm long 
+
