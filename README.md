@@ -7,6 +7,10 @@ The HOPELite hands are designed to maximise cost against performance with very s
 
 The BOM stands for the Bill of Materials which is a complete description of every component that is required to assemble the design. The real cost to build a robot can be much higher depending on how hard it is to arrange delivery of every last component in the BOM. Reducing BOM size has cumulative advantages at many levels and is one of the top design priorities now.
 
+For the arms, it is recommended to use a higher performance servo in the shoulder pitch joint. This link is for 6 ST3215 and 1 ST3250 which is the 50kgcm version with steel gears:
+
+https://www.alibaba.com/product-detail/1PC-ST3250-and-6PCS-12V-30KG_1601281510404.html?spm=a2747.product_manager.0.0.4ab571d2eCnENE
+
 This test of a finger structure replaces ball bearings with rolling joints that use the same size of fishing line as the tendons themselves (apologies that crimps are still required at this stage).
 
 HOPELite: Open-source, DIY, humanoid robots
