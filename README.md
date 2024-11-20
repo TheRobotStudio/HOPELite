@@ -1,5 +1,5 @@
-# HOPELite
-HOPELite_open-source_DIY_Humanoid_Robot_with_dexterous_hands
+# HOPEJr
+HOPEJr_open-source_DIY_Humanoid_Robot_with_dexterous_hands
 
 ![IMG_1786 2024-09-25 14_52_36](https://github.com/user-attachments/assets/b9bcc1e2-a2e2-48b4-867c-adab4cd63b4a)
 
