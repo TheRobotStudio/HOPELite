@@ -1,6 +1,12 @@
 # HOPEJr
 HOPEJr_open-source_DIY_Humanoid_Robot_with_dexterous_hands
 
+As of 28/11/2024 the most up to date releases are for the Second_Arm_Draft(SP1) and the First_Hand_Draft.
+
+When we do the first batch purchase of parts for a mass community build the Shoulder_Yaw, Shoulder_Roll and Elbow servos will also be upgraded to ST3250, same as the Shoulder_Pitch in the present design.
+
+SP1 corrects the tendon pulley design at the elbow. The new stl files are in Second_Arm_Draft/SP1
+
 ![IMG_1786 2024-09-25 14_52_36](https://github.com/user-attachments/assets/b9bcc1e2-a2e2-48b4-867c-adab4cd63b4a)
 
 The HOPEJr hands are designed to maximise cost against performance with very small BOM's.
