@@ -3,11 +3,16 @@ HOPEJr_open-source_DIY_Humanoid_Robot_with_dexterous_hands
 
 As of 02/12/2024 the most up to date releases are for the Second_Arm_Draft(Addendum1) and the First_Hand_Draft.
 
+Right arm: 3dprint_files/Second_Arm_Draft/Addendum1
+Left Arm: 3dprint_files/Second_Arm_Draft/Left/Addendum1
+
 When we do the first batch purchase of parts for a mass community build the Shoulder_Yaw, Shoulder_Roll and Elbow servos will also be upgraded to ST3250, same as the Shoulder_Pitch in the present design.
 
 Addendum1 corrects the tendon pulley design at the elbow in the batch print trays.
 
-The individual stl files of the new Elbow_Tendon_Hanger and HL_Shoulder_Pitch_Mount_03b are included in case you have already printed the previous batch tray.
+The individual stl files of the new Elbow_Tendon_Hanger are included in case you have already printed the previous batch tray.
+
+HL_Shoulder_Pitch_Mount_03b is also slightly changed and the files are included. They are now identical for left and right arms.
 
 ![IMG_1786 2024-09-25 14_52_36](https://github.com/user-attachments/assets/b9bcc1e2-a2e2-48b4-867c-adab4cd63b4a)
 
